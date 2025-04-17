@@ -29,7 +29,7 @@
 
 
 ## ![Socials](https://img.shields.io/badge/🌐-Socials-green?style=for-the-badge)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/693930344675541045) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Hadi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alll_sjaa) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/693930344675541045) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/16Pqeuo1Yw/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alll_sjaa) 
 
 # ![Tech Stack](https://img.shields.io/badge/🖥️-Tech%20Stack-blue?style=for-the-badge)
 <p align="center">
