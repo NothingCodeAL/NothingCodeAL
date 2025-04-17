@@ -8,6 +8,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Hi,+I'm+NothingCodeAL.;Gtps+Developer+%7C+Web+Developer;Bot+Developer+%7C+Code+Builder;Always+Building+Cool+Stuff..." />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
 ## ![About Me](https://img.shields.io/badge/👤-About%20Me-informational?style=for-the-badge)
 ```txt
 💻 Web Developer — Gtps Developer
@@ -33,5 +39,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NothingCodeAL&icon=2&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
