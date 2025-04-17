@@ -3,6 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=200&section=header&text=NothingCodeAL&fontSize=50&fontColor=09FFFF&animation=twinkling" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NothingCodeAL/NothingCodeAL/main/logo.png" />
+</p>
+
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Hi,+I'm+NothingCodeAL.;Gtps+Developer+%7C+Web+Developer;Bot+Developer+%7C+Code+Builder;Always+Building+Cool+Stuff..." />
