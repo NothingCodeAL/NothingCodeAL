@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=200&section=header&text=NothingCodeAL&fontSize=50&fontColor=09FFFF&animation=twinkling" />
 </p>
 
-<p align="center">
+/*<p align="center">
   <img src="https://raw.githubusercontent.com/NothingCodeAL/NothingCodeAL/main/logo.png" />
-</p>
+</p>*/
 
 <!-- Typing Animation -->
 <p align="center">
